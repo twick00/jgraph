@@ -1,0 +1,10 @@
+{
+  "data": {
+    "innerData": {
+      "evenMoreInnerData": "Hello World"
+    }
+  },
+  "test": {
+    "$ref": "./test/other_file.json"
+  }
+}

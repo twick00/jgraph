@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfbd49e3-8ba7-4259-bab5-5d33116521d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/entry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/other_file.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="2gtv0oad" />
+  </component>
+  <component name="ProjectId" id="1ak6rh4wCU6LVcq4XetxMiwEZki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager" selected="Cargo Command.Parse!">
+    <configuration name="Expand jgraph" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="expand --bin jgraph --color=always --theme=GitHub --tests" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parse!" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo Command.Parse!" />
+      <item itemvalue="Cargo Command.Expand jgraph" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Expand jgraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfbd49e3-8ba7-4259-bab5-5d33116521d0" name="Default Changelist" comment="" />
+      <created>1587267444573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587267444573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="397" key="#JSON_Schema_Mappings" timestamp="1587271581844">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="460" y="397" key="#JSON_Schema_Mappings/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587271581844" />
+    <state x="324" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587267691800">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="324" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587267691800" />
+    <state x="673" y="454" key="#com.intellij.ide.util.MemberChooser" timestamp="1587443318825">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="673" y="454" key="#com.intellij.ide.util.MemberChooser/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587443318825" />
+    <state width="1678" height="383" key="GridCell.Tab.0.bottom" timestamp="1587452990738">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="474" key="GridCell.Tab.0.bottom/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587403702802" />
+    <state width="1678" height="383" key="GridCell.Tab.0.bottom/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587452990738" />
+    <state width="1678" height="383" key="GridCell.Tab.0.center" timestamp="1587452990737">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="474" key="GridCell.Tab.0.center/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587403702801" />
+    <state width="1678" height="383" key="GridCell.Tab.0.center/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587452990737" />
+    <state width="1678" height="383" key="GridCell.Tab.0.left" timestamp="1587452990737">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="474" key="GridCell.Tab.0.left/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587403702800" />
+    <state width="1678" height="383" key="GridCell.Tab.0.left/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587452990737" />
+    <state width="1678" height="383" key="GridCell.Tab.0.right" timestamp="1587452990737">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1678" height="474" key="GridCell.Tab.0.right/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587403702801" />
+    <state width="1678" height="383" key="GridCell.Tab.0.right/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587452990737" />
+    <state x="100" y="123" width="3088" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587445726800">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="100" y="123" width="1520" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587363985667" />
+    <state x="100" y="123" width="3088" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587445726800" />
+    <state x="663" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587362189461">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="663" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587362189461" />
+    <state x="566" y="488" width="588" height="538" key="find.popup" timestamp="1587359537466">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="566" y="488" width="588" height="538" key="find.popup/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587359537466" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1587451217198">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587346106796" />
+    <state width="600" height="428" key="javadoc.popup/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587451217198" />
+    <state x="525" y="346" key="run.anything.popup" timestamp="1587362713571">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="525" y="346" key="run.anything.popup/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587362713571" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1587442985476">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/784.-1057.1920.1057@0.23.3440.1417" timestamp="1587403394263" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/784.-1057.1920.1057/0.23.3440.1417@0.23.3440.1417" timestamp="1587442985476" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.rs</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

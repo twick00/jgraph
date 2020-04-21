@@ -1,0 +1,6 @@
+{
+  "innerTest": "Oh hey!",
+  "hereWeGoAgain": {
+    "$ref": "./test/entry.json"
+  }
+}
